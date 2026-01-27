@@ -12,4 +12,7 @@ using improperly configured SUID binaries and sudo rights.
 
 ### Vulnerabilities
 - SUID enabled for find command
-- Password-less sudo access #### Learning Outcome - Basic Linux Security Concepts - Access escalation techniques
+- Password-less sudo access
+-  #### Learning Outcome
+-  Basic Linux Security Concepts
+-  Access escalation techniques 

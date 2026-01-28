@@ -4,15 +4,15 @@ It shows the methods of privilege escalation on a Linux machine
 
 using improperly configured SUID binaries and sudo rights.
 ### Tools Used
-- Ubuntu Linux
-- Docker
+ - Ubuntu Linux
+ - Docker
 
 # Bash
-- Git & GitHub
+ - Git & GitHub
 
 ### Vulnerabilities
-- SUID enabled for find command
-- Password-less sudo access
--  #### Learning Outcome
--  Basic Linux Security Concepts
--  Access escalation techniques 
+ - SUID enabled for find command
+ - Password-less sudo access
+ -  #### Learning Outcome
+ -  Basic Linux Security Concepts
+ -  Access escalation techniques 

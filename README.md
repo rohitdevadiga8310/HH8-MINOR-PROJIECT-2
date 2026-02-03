@@ -28,5 +28,5 @@ using improperly configured SUID binaries and sudo rights.
 ### 🔍 Privilege Escalation Techniques
 
 #### 1. SUID Exploitation
-- `find` command with SUID bit enabled
+- `find` command with SUID bit enabled 
 - Allows execution with root privileges
